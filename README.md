@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvra05&label=Profile%20views&color=0e75b6&style=flat" alt="suvra05" /> </p>
 
-- 🌱 I am a BTech CSE student at KIIT'28**
+- 🌱 I am a BTech CSE student at KIIT'28
 - 📫 How to reach me **suvrajitdas2005@gmail.com**
 
 ### 💻 Technical Skills
